@@ -5,3 +5,6 @@
 
 [https://github.com/ghdic/IT-Study/wiki](https://github.com/ghdic/IT-Study/wiki)
 
+카토 메구미는 사랑입니다.
+
+![kato.jpg](https://github.com/ghdic/IT-Study/blob/master/Image/kato.jpg)
